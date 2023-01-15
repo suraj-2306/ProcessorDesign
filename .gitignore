@@ -1,2 +1,1 @@
-top_output.out
-top_dump.vcd
+sim/build/*
